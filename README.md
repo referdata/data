@@ -1,1 +1,18 @@
-# data
+https://github.com/hmgoforth/gps-denied-uav-localization
+https://github.com/PX4/PX4-Autopilot
+https://github.com/KumarRobotics/kr_autonomous_flight
+https://github.com/AdamBen7/Inertial-Navigation-System-Project/tree/master
+https://github.com/RobertDamerius/GenericINS
+https://github.com/MrBourriz/GNSS-INS-Processing
+https://github.com/rodralez/NaveGo
+https://github.com/majuid/DeepNav?tab=readme-ov-file
+https://github.com/martin0004/drone_control_system
+https://github.com/OpenDroneMap/ODM
+https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
+https://github.com/TixiaoShan/LVI-SAM
+https://github.com/vinay0703/Fully-end-to-end-visual-odometry-for-mini-drone
+https://github.com/powei-lin/tiny-vo
+https://github.com/Sharad24/Autonomous-Drone-Navigation
+https://github.com/UeFan/Pixhawk_off-board_control_without_GPS
+https://github.com/snktshrma/ardupilot_ros
+https://github.com/nikulram/Advanced-Autonomous-Drone-Navigation-System
